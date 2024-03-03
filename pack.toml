@@ -1,0 +1,13 @@
+name = "Mechanical SMP"
+author = "SzyZu"
+version = "1.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b7c20a4323d664bc5436d915407161027d5518cb06cc94fb52f9330d56fb682"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.18.2"
