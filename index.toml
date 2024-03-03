@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "f0fa732ef0293e65fc918634ce653836eb7c71a851ebcfd3b3d94a270e95271a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a963abcf7e87e626b30520ba3bf3357b5390eb37e6c7431a028dde88c00c2218"
 metafile = true
@@ -12,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3018a0a01e0f77d2a1063e41658173de8f8694ac400f0779197e87584b1a8885"
+hash = "ad57f7c9c1168767a8f64c4f2bc115c11ebe31fa08d0a3527820ba6567f481a1"
 metafile = true
 
 [[files]]
@@ -41,16 +45,6 @@ hash = "4d9dd7243c0f46de5a87abff7342c9cb221535a18746972a65ca9f810cc5ec6d"
 metafile = true
 
 [[files]]
-file = "mods/chassis.pw.toml"
-hash = "e281ea4495e12f5051e92a8ec4050293f19a159563b31123ba8c5748613e0026"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "77a0413c95775702879b7d4a7fd7a685188e0e0c158d4a799f2d224bc2be9876"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "6273c590bbf7eb98af9badd5e80b33b1c8dceb093659ecb1db5f6ce85da28d4b"
 metafile = true
@@ -58,16 +52,6 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "67ddc2eb1c7db8fd3fb89ab0999fc663a22a7190ed4e800a086910d169069f66"
-metafile = true
-
-[[files]]
-file = "mods/compressor.pw.toml"
-hash = "baa128da50412cc2e3428f2ca553f2bc594da5e05ce16cde759333cef7c5e96d"
-metafile = true
-
-[[files]]
-file = "mods/connectivity.pw.toml"
-hash = "b48d62b468667216ab75ad815a494d91b015d8ccc31e406fa62bb4e112db48cd"
 metafile = true
 
 [[files]]
@@ -83,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "8d0a9cb4a6bc64c1e72e2989e449b0b37cc96528f01762586bdea33c12ce8aaa"
-metafile = true
-
-[[files]]
-file = "mods/create-chunkloading.pw.toml"
-hash = "f54232d407916ec20b6d67085d9f7cc545be8b85033f9535a65d179427d366b4"
 metafile = true
 
 [[files]]
@@ -127,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5891b0abfeb425c52088869d62543d9f4630eda5b6b7d95bad761fa60a934e1e"
+hash = "62176b6e62761a14b2d68910146076da234959b719090a5197509ff02b6137ce"
 metafile = true
 
 [[files]]
