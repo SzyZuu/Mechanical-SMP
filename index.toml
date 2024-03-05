@@ -2005,18 +2005,6 @@ file = "config/serverpause/serverpause.conf"
 hash = "72b270b86a860be571fcfcbe840dabeeacdfbe6a68b1758eded505d5ca251051"
 
 [[files]]
-file = "config/skinlayers.json"
-hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "af08928fda0807c991cff40de5a17abcc67253aec8228207b26c02d6c568b47a"
-
-[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 hash = "019c795a5996ae21c6860d4bb3ad62cf2ee8f3247b702b3372ed76ad1a5ba88b"
 
@@ -2265,11 +2253,6 @@ hash = "29a6b00e50c3ce40cc1a715433c3d8ab76a65e2f948ca1f044e273b1e5161b36"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b7eff661448c0025e3160a025e0f92db66d4a8d18e0b9ce77a7c8c22cc737850"
-metafile = true
-
-[[files]]
 file = "mods/excessive-building.pw.toml"
 hash = "f9eb0acb9809fc8e2ae74945086e9c0e72371e16c0a4a5b774cd2532b4ac4dd7"
 metafile = true
@@ -2400,11 +2383,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2ccb5d8b36aae83116c8daab87a5c4ecff710fcf751e0261c79d2ad2aeb4fe16"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "470c19232a750a398997935c13778a662468fa69fb78c9f269189f41b132d094"
 metafile = true
 
 [[files]]
