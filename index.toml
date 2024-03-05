@@ -120,6 +120,11 @@ file = "mods/create_interactive-118-fabric-1.0.0-beta.3.jar"
 hash = "b51add382560852870f6c2cd8a55055b030a1842f4dc8352f47647df3045bfe7"
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "2c5655449d70407f98eaa1d615b895f6b0e610c1815611fd5fbe5d50d2c8149b"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "ce026fd0514b1ca7d8dfc7816044f4d3b36c7f74d90f7751eed4e75acaf7d044"
 metafile = true
