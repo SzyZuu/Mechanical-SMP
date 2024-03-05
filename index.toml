@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a963abcf7e87e626b30520ba3bf3357b5390eb37e6c7431a028dde88c00c2218"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "eb4030bf9e5c240452aa5e78126ac65732f813166cf30f067f8810d12c81bf15"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "29a6b00e50c3ce40cc1a715433c3d8ab76a65e2f948ca1f044e273b1e5161b36"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "512de8fbc87db74d4582fc87d333bb9cd50a0ea905210870ba6a8b2897281c09"
 metafile = true
 
 [[files]]
@@ -255,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2ccb5d8b36aae83116c8daab87a5c4ecff710fcf751e0261c79d2ad2aeb4fe16"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
