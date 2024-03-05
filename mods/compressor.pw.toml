@@ -1,0 +1,13 @@
+name = "Compressor (Fabric)"
+filename = "Compressor-Fabric-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61aa207e0735e82a6911407b598df186da0e464a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3824507
+project-id = 563438

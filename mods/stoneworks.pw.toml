@@ -1,0 +1,13 @@
+name = "Stoneworks [Forge & Fabric]"
+filename = "Stoneworks-v3.0.0-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59bd3d7dd74817f5ea39a61d457d3340bdcba704"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4699521
+project-id = 852663

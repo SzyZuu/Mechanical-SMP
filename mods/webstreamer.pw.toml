@@ -1,0 +1,13 @@
+name = "WebStreamer"
+filename = "webstreamer-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1052f7ef10c377f444248c982c64ad7cb333bf4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3936994
+project-id = 628932
