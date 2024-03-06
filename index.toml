@@ -16,6 +16,11 @@ hash = "e49667b9ed9e64de288bfc1c1942cb0d3efdb3ae7d0607ad0c951bb34567e463"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "b51b4b08fefc52658da700a01762276e4e7497c97963fdc644eaf9db58ca1621"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3018a0a01e0f77d2a1063e41658173de8f8694ac400f0779197e87584b1a8885"
 metafile = true
